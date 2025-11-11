@@ -1,1 +1,1 @@
-# vojtikulis10googlesearch.github.io
+# vojtikulis10googlesearch
