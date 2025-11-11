@@ -1,0 +1,14 @@
+.logokyle {
+    margin-bottom: 10em;
+}
+.googlesearch {
+    padding-bottom: 5em;
+    background-color: #41AB33;
+    text-align: center;
+    margin: 5em;
+    border: 0.5em solid #000000;
+    border-radius: 5em;
+}
+body {
+    background-color: #F7E01D;
+}
