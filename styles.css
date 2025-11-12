@@ -12,3 +12,35 @@
 body {
     background-color: #F7E01D;
 }
+.googlesearch input[type="text"] {
+    text-align: center;
+    width: 50%;
+    max-width: 500em;
+    padding: 0.5em 7em;
+    font-size: 1.25em;
+    border: 0.250em solid #000000;
+    border-radius: 100em;
+    outline: none;
+    transition: all 0.3s ease;
+}
+body {
+    background-color: #F7E01D;
+    display: flex;                 /* Aktivuje flexbox */
+    justify-content: center;       /* Vycentruje vodorovně */
+        /* Vycentruje svisle */
+    height: 35em;                 /* Zajistí, že body má výšku celé obrazovky */
+    margin: 0em;                     /* Odstraní okraje */
+}
+.googlesearch input[type="submit"] {
+    border-radius: 100em;
+    font-size: x-large;
+
+
+
+
+
+
+
+
+
+}
